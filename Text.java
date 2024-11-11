@@ -1,7 +1,5 @@
-class Text
-  {
-    public static void main(String[] args)
-    {
-      System.out.println("Welcome to devops")
-    }
-  }
+class Text{  
+    public static void main(String args[]){  
+     System.out.println("Hello Java");  
+    }  
+}
